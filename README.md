@@ -111,6 +111,3 @@ Walmart seeks to understand which branches and product categories contribute the
 
 * Walmart Sales Analysis Dashboard (.pbit)**
 * README.md (this document)
-
-
-If you want a shorter version, customization, or additional sections like "Future Enhancements" or screenshots, just let me know!
