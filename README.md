@@ -109,5 +109,5 @@ Walmart seeks to understand which branches and product categories contribute the
 
 ## 📁 9. Project Files:
 
-* Walmart Sales Analysis Dashboard (.pbit)**
+* https://github.com/the-Manisha-Wankhede/Walmart-Sales-Performance-Analysis/blob/main/walmart%20customer%20analysis%20section.png
 * README.md (this document)
